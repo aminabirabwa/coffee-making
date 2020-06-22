@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)https://akirachix.com/about/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="google" content="notranslate">
+  <meta http-equiv="Content-Language" content="en_US">
+  
+  <title>About Page</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:title" content="About Page">
+<meta property="og:description" content="">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://akirachix.com/about/">
+
+<meta property="og:image" content="http://akirachix.com/img/girls2015.png">
+
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+
+ <meta name="twitter:card" content="summary_large_image">
+ <meta name="twitter:site" content="">
+ <meta name="twitter:creator" content="">
+ <meta name="twitter:title" content="About Page">
+ <meta name="twitter:description" content="About Page">
+ <meta name="twitter:text:description" content="">
+ 
+ <meta property="og:image" content="">
+ 
+ <meta name="twitter:image:alt" content="AkiraChix">
+
+  <!-- Fonts -->
+  <link href="./mar_files/css" rel="stylesheet">
+  <link href="https://cdn.remixicon.com/releases/v1.2.2/remixicon.css" rel="stylesheet">
+  <link rel="stylesheet" href="./mar_files/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="./mar_files/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="./mar_files/8a4c3dd001d72e733e5934c5b5f86f2c.css" data-cms-original-href="/css/main.css">
+
+  <!-- Analytics -->
+  
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./mar_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
+
+
+<style type="text/css">#mc_embed_signup input.mce_inline_error { border-color:#6B0505; } #mc_embed_signup div.mce_inline_error { margin: 0 0 1em 0; padding: 5px 10px; background-color:#6B0505; font-weight: bold; z-index: 1; color:#fff; }</style></head>
+
+  <body class="page" style="zoom: 1;">
+    <header id="page-header" class="py-1 fixed-top">
+  <div class="container">
+    <nav id="mainnav" class="navbar navbar-expand-md ">
+      <a class="navbar-brand" href="https://akirachix.com/"><img src="./mar_files/0c9da6ea6289ffb759cd3b6a36254675.png" width="150" data-cms-original-src="/img/akirachix-logo.png"></a>
+      <button class="navbar-toggler navbar-light" type="button" data-toggle="collapse" data-target="#primarynav" aria-controls="primarynav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon navbar-light"></span>
+      </button>
+
+      <div class="collapse navbar-collapse justify-content-md-between" id="primarynav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="https://akirachix.com/">HOME</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link cc-active" href="https://akirachix.com/about/">ABOUT</a>
+          </li>
+          <li class="nav-item current_page_item">
+            <a class="nav-link " href="https://akirachix.com/impact/">IMPACT</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://akirachix.com/apply/">APPLY</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://akirachix.com/Get_involved/">GET INVOLVED</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://akirachix.com/contact/">CONTACT</a>
+          </li>
+          <li class="nav-item p-2">
+            <a id="donate_button" href="https://akirachix.com/donate/">DONATE</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</header>
+
+    <main id="page-content" data-cms-content-wrapper="/src/_layouts/default.html">
+      <div class="bg-image aspect-hero" id="about">
+     <h1>Young women create a future of tech we <br> are all proud of.</h1>
+</div>
+
+<section class="py-0">
+     <div class="col-md-12 bg-light py-5">
+      <div class="container">
+        <div class="row mx-0">
+          <div class="col-12 col-md-6 py-5">
+            <h3 class="text-center pb-3">MISSION</h3>
+            <p>Provide hands-on technical training and mentorship to young women and girls,to increase the number of skilled women in tech and positively impact the community.</p>
+          </div>
+        <div class="col-12 col-md-6 py-5">
+            <h3 class="text-center pb-3">VISION</h3>
+            <p>Empowering generations of women to be creators, drivers, leaders, and decision-makers in the IT Industry.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+</section> 
+
+<section class="pb-0">
+  <div class="container">
+    <div class="row">
+     <div class="col-12 mt-5">
+        <h3 class="text-center pb-5">OUR VALUES</h3>
+      </div>
+    </div>
+    <div class="row py-3">
+    <div class="col-md-3 mb-5">
+      <img src="./mar_files/7605afcb990b24d1ebbdabe8303193a0.png" alt="image title" class="img-fluid" data-cms-original-src="/img/empathy.png">
+      <div class="col-12 py-3">
+        <h6 class="text-center py-3">EMPATHY</h6>
+        <p>
+         We strive to create a community that is aware of its differences and hold the space for one another without judgment.
+        </p>
+      </div>
+    </div>
+    <div class=" col-md-3 mb-5">
+      <img src="./mar_files/5b66dad2ee86d3bb75f0fa5142a53c52.png" alt="This is a repsonsive placeholder image" class="img-fluid" data-cms-original-src="/img/diversity.png">
+      <div class="col-12 py-3">
+        <h6 class="text-center py-3">DIVERSITY</h6>
+        <p>
+          We seek and celebrate our differences, our community comprises of women from different cultures, religions, and backgrounds.
+        </p>
+      </div>
+    </div>
+    
+    <div class="col-md-3 mb-5">
+      <img src="./mar_files/ea943d938d8b528ab1ef91863ec89de3.png" alt="image title" class="img-fluid" data-cms-original-src="/img/community.png">
+      <div class="col-12 py-3">
+        <h6 class="text-center py-3">COMMUNITY</h6>
+        <p>
+        We thrive when we are working  and supporting each other.
+        </p>
+      </div>
+    </div>
+    <div class="col-md-3 mb-5">
+      <img src="./mar_files/9f652a45d3188a26118095ca903737b7.png" alt="This is a repsonsive placeholder image" class="img-fluid" data-cms-original-src="/img/lifelong-learning.png">
+      <div class="col-12 py-3">
+        <h6 class="text-center py-3">LIFE LONG LEARNING</h6>
+        <p>
+         We don’t have a template of what we do, we are all on a journey to self-discovery, trial and error, tinkering and curiosity that lead us to learn new things.
+        </p>
+       </div>
+    </div>
+    </div>
+  </div>
+</section>
+
+<section class="py-5">
+  <div class="col-md-12 bg-light">
+    <div class="container py-5">
+      <div class="row justify-content-center py-5">
+         <div class="col-10">
+            <h3 class="text-center pb-3">OUR STORY</h3>
+            <p class="text-center">AkiraChix was founded in 2010 by a group of women who were passionate about changing the landscape of the technology field and creating a community that supports, connects and inspires women in the tech space. These young women challenged the status quo by encouraging and facilitating more women to take up careers in technology-related fields. Its vision has continued to be led by Linda Kamau and Marie Githinji, who have committed to champion the diversity and inclusion of women in the technical workforce, changing the economic capabilities of young women as well as shifting societal norms.
+            AkiraChix has come a long way from its beginnings, where we trained young women from Nairobi in a bus fitted with computers, to a fully-fledged residential campus with a goal of serving young women from all over Kenya and other African Countries.
+            </p>
+         </div>
+      </div>
+    </div>
+  </div>  
+</section>
+
+<section class="py-5">
+    <div class="container">
+       <div class="row align-items-center">
+        <div class="col-md-6">
+          <img class="col-md-10" src="./mar_files/6cc679f61742380c2c1cc399428c8a55.png" alt="image title" data-cms-original-src="/img/theory-of-change.png">
+       </div>
+       <div class="col-md-6">
+         <div class="theory">
+          <h6>SHE BUILDS</h6>
+          <ul>
+            <li>Increase confidence and willingness to participate in tech.</li>
+            <li>Improved personal and technical skills.</li>
+            <li>Improved access to opportunities for women and girls transition to stem careers.</li>
+          </ul>
+         
+          <h6>SHE SERVES</h6>
+          <ul>
+            <li>Women and girls buid tech solutions that transform communities.</li>
+            <li>Women and girls engage in community building activities.</li>
+          </ul>
+          
+          <h6>SHE LEADS</h6>
+          <ul>
+            <li>Women and girls up leadership roles.</li>
+            <li>Influence on government policies on ICT curriculum.</li>
+            <li>Improved household livelihoods.</li>
+          </ul>
+         </div> 
+       </div>
+      </div>
+</div></section>
+
+<section class="py-5">
+  <div class="col-md-12 bg-light py-5">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-12 col-md-6 my-3">
+          <iframe class="embed-responsive width=" 560"="" height="315" src="./mar_files/a7PI14bHJ_U.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        </div>
+        <div class="col-12 col-md-6 py-5 ">
+            <h3 class="text-center pb-3">CAMPUS TOUR</h3>
+           <p class="pl-3">A residential campus, a vibrance of culture, lecture halls, maker labs, dining hall and expansive grounds for recreation activities.
+            </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="py-5">
+  <div class="container">
+    <h3 class="text-center pb-3">TEAM</h3>
+        <div class="row align-items-center mb-5">
+            <div class="col-md-4 pb-3">
+              <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/0f2ce26ff61a2aca650619d49b938aac.png" alt="image title" data-cms-original-src="/img/linda.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Linda Kamau</h3>
+                    <p>Co-Founder and Managing Director</p>
+                 </div>
+              </div>
+            </div>
+ 
+            <div class="col-md-4 pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/1ea5351fd737a8e99fd1460d60276a6e.png" alt="image title" data-cms-original-src="/img/marie.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Marie Githinji</h3>
+                    <p>Co-Founder and Executive Director </p>
+                 </div>
+              </div>
+            </div>
+
+            <div class="col-md-4 pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/2e9a0f9c287d6e1e4c031806e8c2f9ca.png" alt="image title" data-cms-original-src="/img/sama.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Samantha Rolfe</h3>
+                    <p>codeHive Lead</p>
+                 </div>
+              </div>
+             </div>
+         </div>
+        </div>
+
+        <div class="container">
+         <div class="row align-items-center mb-5">
+            <div class="col-md-4  pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/01b92d15bb4b8b9b9576ba8e26257bfa.png" alt="image title" data-cms-original-src="/img/nyandia.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Nyandia Kamawe</h3>
+                    <p>Branding Manager and graphic design trainer</p>
+                 </div>
+              </div>
+            </div>
+            <div class="col-md-4  pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/533689e4c320c7fa03e78d2ca1997a5f.png" alt="image title" data-cms-original-src="/img/zippy.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Zipporah Njoronge</h3>
+                    <p>Finance Manager</p>
+                 </div>
+              </div>
+            </div>
+          </div>
+      </div>
+</section>
+
+<section class="py-0">
+  <div class="container">
+    <h3 class="text-center pb-3">TRAINERS</h3>
+        <div class="row align-items-center mb-5">
+           <div class="col-md-4  pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/d48abb53375506b674bc748017c1194e.png" alt="image title" data-cms-original-src="/img/barre.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Barre Yasin</h3>
+                    <p>Mechanical Design Engineer at BRCK</p>
+                 </div>
+              </div>
+            </div>
+            <div class="col-md-4  pb-3">
+               <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/0b23c5312db4b37bdd7e07b32ec60610.png" alt="image title" data-cms-original-src="/img/anto.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Antony Orenge</h3>
+                    <p>Senior Software Developer at BRCK</p>
+                 </div>
+              </div>
+            </div>
+            <div class="col-md-4  pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/bdb69dbb224abadc52bafcf3bc1c0fcc.png" alt="image title" data-cms-original-src="/img/johnny.png">
+                <div class="content-details fadeIn-top">
+                    <h3>John Owour</h3>
+                    <p>Software developer at Twiga Foods</p>
+                 </div>
+              </div>
+            </div>
+         </div>
+        </div>
+
+        <div class="container">
+         <div class="row align-items-center mb-5">
+            <div class="col-md-4  pb-3">
+             <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/f7536393aa264d7912b7e1038dc42942.png" alt="image title" data-cms-original-src="/img/kelly.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Kelie Murungi</h3>
+                    <p>Head of Corporate Finance Advisory at Lattice Consulting Limited</p>
+                 </div>
+              </div>
+            </div>
+            <div class="col-md-4  pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/2ff0b9c35ed0c7793cee7937e72a7910.png" alt="image title" data-cms-original-src="/img/rodgers.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Rodgers Owoko</h3>
+                    <p>Career Skills Trainer</p>
+                 </div>
+              </div>
+            </div>
+            <div class="col-md-4  pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/5297b9c4725caa6fad2822d37013f898.png" alt="image title" data-cms-original-src="/img/vero.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Veronica Thamaini</h3>
+                    <p>Africa Regional Coordinator at Creative Action Institute</p>
+                 </div>
+              </div>
+            </div>
+          </div>
+      </div>
+
+      <div class="container">
+         <div class="row align-items-center mb-5">
+            <div class="col-md-4  pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/41992cb2da90ebe996ec0f071c0a2483.png" alt="image title" data-cms-original-src="/img/jeff.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Jeff Muthondu</h3>
+                    <p>General Manager of Moja Consumer at BRCK</p>
+                 </div>
+              </div>
+            </div>
+            <div class="col-md-4  pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/f56950548a8994ecc6fc2c38e9228ce2.png" alt="image title" data-cms-original-src="/img/jmwai.png">
+                <div class="content-details fadeIn-top">
+                    <h3>James Mwai</h3>
+                    <p>Co-founder and CTO at Sky.Garden</p>
+                 </div>
+              </div>
+            </div>
+          </div>
+      </div>
+</section>
+    
+<section class="py-0">
+  <div class="container pb-5">
+    <h3 class="text-center py-3">BOARD MEMBERS</h3>
+        <div class="row align-items-center mb-5">
+            
+            <div class="col-md-4  pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/b6876b08d1db01842ecf3f9cf4752c6c.png" alt="image title" data-cms-original-src="/img/dorothy.png">
+                <div class="content-details fadeIn-top">
+                    <h3>Dorothy Ooko</h3>
+                    <p>Head Of Communications and Public Affairs, Sub-Saharan Africa at Google</p>
+                 </div>
+              </div>
+            </div>    
+            <div class="col-md-4  pb-3">
+            <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/Wambura.png" alt="image title">
+                <div class="content-details fadeIn-top">
+                    <h3>Wambura Kimunyu</h3>
+                    <p>Group CEO at Eneza Education</p>
+                 </div>
+              </div>
+            </div>
+            <div class="col-md-4  pb-3">
+             <div class="content"> 
+              <div class="content-overlay"></div> 
+                <img class="content-image" src="./mar_files/3deb972e700fefb98fe0937ec32a231f.jpg" alt="image title" data-cms-original-src="/img/erik.jpg">
+                <div class="content-details fadeIn-top">
+                    <h3>Erik Hersman</h3>
+                    <p>CEO at BRCK</p>
+                 </div>
+              </div>
+            </div>
+        </div>
+</div></section>
+
+
+
+
+
+
+<footer id="page-footer"></footer>
+    <!-- main js file-->
+<script src="./mar_files/86a236043495a7dfc4bdd4288c632b67.js.download" defer="" data-cms-original-src="/js/main.js"></script>
+
+<!-- JS Dependencies -->
+<script src="./mar_files/jquery-3.3.1.slim.min.js.download" crossorigin="anonymous" defer=""></script>
+<script src="./mar_files/popper.min.js.download" crossorigin="anonymous" defer=""></script>
+<script src="./mar_files/bootstrap.min.js.download" crossorigin="anonymous" defer=""></script>
+<script src="./mar_files/lazysizes.min.js.download" crossorigin="anonymous" defer=""></script>
+  </main>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <section>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Hello Carolyne!!!</h1>
+        <p>The page title is: <strong>About Page</strong></p>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+    
+    <footer class="page-footer font-small pt-5" id="footer">
+	<div class="container py-3">
+		  <div class="container-fluid text-center text-md-left">
+
+		    <div class="row">
+		      <div class="address col-md-3 mt-md-0 mt-3">
+		        <h6 class="pt-3 text-light">CONTACT INFO</h6>
+	          <p class="text-secondary">Email:info@akirachix.com <br>
+	          Tel +254 723 935 796</p>
+
+	          <h6 class="pt-3 text-light">ADDRESS</h6>
+	          <p class="text-secondary">P.O.BOX 22009-00100 <br>
+	          Nairobi</p>
+	          <h6 class="pt-3 text-light">LOCATION</h6>
+	          <p class="text-secondary">Savelberg Retreat Centre
+	          	<br> Muringa road,<br> Kilimani, Nairobi</p>
+		      </div>
+
+		      <div class="col-md-3 mb-md-0 mb-3">
+		        <h6 class="pt-3 text-light">NEWSLETTER</h6>
+	        <!-- <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email"> -->
+					<!-- <a class="btn btn-secondary mt-3 mb-5" href="http://eepurl.com/QIlGr">SUBSCRIBE</a> -->
+					<button type="button" data-toggle="modal" class="btn btn-secondary mt-3 mb-5" data-target="#signupModal">SUBSCRIBE</button>
+<!-- Modal -->
+<div class="modal fade" id="signupModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title"><img src="./mar_files/1660c557f83aa4644e2a8d4bf0ddd4fb.png" width="120" data-cms-original-src="/img/logo.png"></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">×</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <!-- Begin Mailchimp Signup Form -->
+        <div id="mc_embed_signup">
+          <form action="https://akirachix.us8.list-manage.com/subscribe/post?u=3a9f5861127712c1f85748063&amp;id=28ee7c10e8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate="novalidate">
+            <div id="mc_embed_signup_scroll">
+              <div class="form-group">
+                <label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
+                </label>
+                <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" aria-required="true">
+              </div>
+              <div class="form-group">
+                <label for="mce-LNAME">Last Name </label>
+                <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME">
+              </div>
+              <div class="form-group">
+                <label for="mce-MMERGE1">First Name </label>
+                <input type="text" value="" name="MMERGE1" class="form-control" id="mce-MMERGE1">
+              </div>
+              <h5>Send me more information on:</h5>
+
+              <div class="custom-control custom-checkbox">
+                <input type="checkbox" value="1" name="group[9553][1]" id="mce-group[9553]-9553-0" class="custom-control-input">
+                <label for="mce-group[9553]-9553-0" class="custom-control-label">General Updates</label>
+              </div>
+              <div class="custom-control custom-checkbox">
+                <input type="checkbox" value="2" name="group[9553][2]" id="mce-group[9553]-9553-1" class="custom-control-input">
+                <label for="mce-group[9553]-9553-1" class="custom-control-label">High School outreach</label>
+              </div>
+              <div class="custom-control custom-checkbox">
+                <input type="checkbox" value="4" name="group[9553][4]" id="mce-group[9553]-9553-2" class="custom-control-input">
+                <label for="mce-group[9553]-9553-2" class="custom-control-label">Training Program</label>
+              </div>
+              <div class="custom-control custom-checkbox mb-5">
+                <input type="checkbox" value="8" name="group[9553][8]" id="mce-group[9553]-9553-3" class="custom-control-input">
+                <label for="mce-group[9553]-9553-3" class="custom-control-label">Community Building</label>
+              </div>
+
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>
+              <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+              <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3a9f5861127712c1f85748063_28ee7c10e8" tabindex="-1" value=""></div>
+              <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary btn-block"></div>
+            </div>
+          </form>
+        </div>
+        <script type="text/javascript" src="./mar_files/mc-validate.js.download"></script>
+        <script type="text/javascript">(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; fnames[1] = 'MMERGE1'; ftypes[1] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
+        <!--End mc_embed_signup-->
+      </div>
+    </div>
+  </div>
+</div>
+
+	        <br>
+	         <a class="text-light" id="donate_button" href="https://akirachix.com/donate/">DONATE</a>
+		      </div>
+
+		      <div class="col-md-3 mb-md-0 mb-3 pl-5 ">
+		        <h6 class="pt-3 text-light">NAVIGATE</h6>
+	          <a class="text-secondary" href="https://akirachix.com/blog/">Blog</a>
+	          <br>
+	          <a class="text-secondary" href="https://akirachix.com/apply/">Apply</a>
+	          <br>
+	          <a class="text-secondary" href="https://akirachix.com/home/">Home</a>
+	          <br>
+	          <a class="text-secondary" href="https://akirachix.com/impact/">Impact</a>
+	          <br>
+	          <a class="text-secondary" href="https://akirachix.com/contact/">Contact</a>
+	          <br>
+	          <a class="text-secondary cc-active" href="https://akirachix.com/about/">About</a>
+	          <br>
+	          <a class="text-secondary" href="https://akirachix.com/programmes/">Other initiatives</a>
+		      </div>
+		      <div class="col-md-3">
+		       <a href="https://www.google.com/maps/place/AkiraChix/@-1.2966309,36.7784149,15z/data=!4m5!3m4!1s0x0:0xe54a131abd8ebdb2!8m2!3d-1.2966309!4d36.7784149"><img src="./mar_files/53359dfaed71af3981ab666db1bd992d.png" alt="This is a repsonsive placeholder image" class="img-fluid pt-3" data-cms-original-src="/img/map2.png"></a>
+		      </div>
+		    </div>
+		  </div>
+		  <hr class="mt-3">
+		  <div class="row pb-3 pt-3">
+	      <div class="col-md-12 ">
+	        <div class="mb-5 d-flex text-center justify-content-center">
+		     
+	          <a href="https://twitter.com/akirachix"> <i class="fab fa-twitter fa-lg white-text text-light mr-4"> </i></a>
+	          <a href="https://www.facebook.com/AkiraChix"> <i class="fab fa-facebook-f fa-lg text-light white-text mr-4"> </i></a>
+	          <a href="https://www.linkedin.com/company/akirachix/"><i class="fab fa-linkedin-in fa-lg white-text text-light mr-4"> </i></a>
+	          <a href="https://www.youtube.com/channel/UCr5NPYEeoTKvnc9FrcCwWiA"> <i class="fab fa-youtube text-light"></i></a>
+
+	        </div>
+	      </div>
+	    </div>
+	</div>
+</footer>
+<div class="footer-copyright text-center py-3 text-light" id="copyright">Copyright © 2019 AkiraChix. All rights reserved.
+</div>
+
+    <!-- main js file-->
+<script src="./mar_files/86a236043495a7dfc4bdd4288c632b67.js.download" defer="" data-cms-original-src="/js/main.js"></script>
+
+<!-- JS Dependencies -->
+<script src="./mar_files/jquery-3.3.1.slim.min.js.download" crossorigin="anonymous" defer=""></script>
+<script src="./mar_files/popper.min.js.download" crossorigin="anonymous" defer=""></script>
+<script src="./mar_files/bootstrap.min.js.download" crossorigin="anonymous" defer=""></script>
+<script src="./mar_files/lazysizes.min.js.download" crossorigin="anonymous" defer=""></script>
+  
+
+</body></html>
